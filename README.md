@@ -1,4 +1,4 @@
-## Experimenting Chart.Js and React-Table
+## React-Table
 
 <!-- View the site at -->
 
